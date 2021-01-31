@@ -67,7 +67,7 @@
     "deep-diff": "^0.3.4",
     "diff": "^2.2.2",
     "lodash": "^4.11.1",
-    "sequelize": "^4.19.0"
+    "sequelize": "^5.15.1"
   },
   "babel": {
     "presets": [
